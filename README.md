@@ -4,12 +4,12 @@
 The objective of this lab project is to set up Microsoft Sentinel, a cloud-native Security Information and Event Management (SIEM) tool, within the Microsoft Azure platform. The goal is to create a comprehensive security monitoring and incident response system that can collect, analyze, and respond to security events in real time.
 
 ## Technologies Employed
-Microsoft Azure: Cloud computing platform for hosting and managing resources.
-Microsoft Sentinel: SIEM tool used for threat detection, investigation, and response.
-Log Analytics Workspace (LAW): Central repository for collecting and analyzing log data.
-Kusto Query Language (KQL): Query language used in Log Analytics for data analysis.
-JSON: Used for configuring workbooks and defining querying conditions.
-Geodata Files: Used to enrich data and provide geographic context to incidents.
+Microsoft Azure: Cloud computing platform for hosting and managing resources. <br>
+Microsoft Sentinel: SIEM tool used for threat detection, investigation, and response. <br>
+Log Analytics Workspace (LAW): Central repository for collecting and analyzing log data.<br>
+Kusto Query Language (KQL): Query language used in Log Analytics for data analysis.<br>
+JSON: Used for configuring workbooks and defining querying conditions.<br>
+Geodata Files: Used to enrich data and provide geographic context to incidents.<br>
 
 ## Methodologies Followed
 ### Create the Log Analytics Workspace (LAW):
