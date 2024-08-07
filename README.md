@@ -11,7 +11,7 @@ The objective of this lab project is to set up Microsoft Sentinel, a cloud-nativ
 - JSON: Used for configuring workbooks and defining querying conditions.<br>
 - Geodata Files: Used to enrich data and provide geographic context to incidents.<br>
 
-## Methodologies Followed
+## Methodologies And Execution
 ### Create the Log Analytics Workspace (LAW):
 
 ![image](https://github.com/user-attachments/assets/a1b34751-1393-48d1-93f4-9869a228a051)
